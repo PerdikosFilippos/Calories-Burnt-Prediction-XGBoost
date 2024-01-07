@@ -1,1 +1,1 @@
-# Calories-Burnt-Prediction-XGBoost-
+# Calories-Burnt-Prediction-XGBoost
